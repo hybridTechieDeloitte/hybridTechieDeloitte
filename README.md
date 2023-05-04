@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi mate 👋
 
-<!--
-**hybridTechieDeloitte/hybridTechieDeloitte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👋 Hi, I’m @hybridtechie
+- 👀 I’m interested in Software Dev, Architecture
+- 🌱 I’m currently learning Integration Architecture, Graph Databases, gRPC
+- 💞️ I'm working on some hobby projects
+- 📫 You can reach me at [nithinjames](https://www.linkedin.com/in/nithinjames/)
 
-Here are some ideas to get you started:
+**Languages and Tools:**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<code><img height="20" src="https://icon.horse/icon/dotnet.microsoft.com"></code>
+<code><img height="20" src="https://icon.horse/icon/portal.azure.com"></code>
+<code><img height="20" src="https://icon.horse/icon/python.org/)"></code>
+<code><img height="20" src="https://icon.horse/icon/javascript.com"></code>
+<code><img height="20" src="https://icon.horse/icon/visualstudio.microsoft.com"></code>
